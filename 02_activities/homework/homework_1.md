@@ -1,5 +1,5 @@
 # Homework 1: Submission - Image below
-![image]](../../../FarmersMarket_Chart.png)
+![Logical chart image](images/FarmersMarket_Chart.png)
 
 # Homework 1: farmersmarket.db
 
