@@ -1,4 +1,8 @@
+# Homework 1: Submission - Image below
+![image]](../../../FarmersMarket_Chart.png)
+
 # Homework 1: farmersmarket.db
+
 
 - Due on Thursday, September 12 at 11:59pm
 - Weight: 8% of total grade
